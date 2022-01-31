@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/ABC/important/QLSK/app/src/main/res/layout/activity_main.xml" value="0.165625" />
+        <entry key="..\:/ABC/important/QLSK/app/src/main/res/layout/bodymeasure_row.xml" value="0.1" />
+        <entry key="..\:/ABC/important/QLSK/app/src/main/res/layout/bodymeasure_rowheader.xml" value="0.1" />
+        <entry key="..\:/ABC/important/QLSK/app/src/main/res/layout/bodypart_row.xml" value="0.1" />
+        <entry key="..\:/ABC/important/QLSK/app/src/main/res/layout/bodytracking_details_fragment.xml" value="0.1" />
+        <entry key="..\:/ABC/important/QLSK/app/src/main/res/layout/custom_drawer_item.xml" value="0.1" />
+        <entry key="..\:/ABC/important/QLSK/app/src/main/res/layout/custom_spinner_item.xml" value="0.1" />
+        <entry key="..\:/ABC/important/QLSK/app/src/main/res/layout/dialog_chrono.xml" value="0.1" />
+        <entry key="..\:/ABC/important/QLSK/app/src/main/res/layout/dialog_numberpicker.xml" value="0.4466666666666667" />
+        <entry key="..\:/ABC/important/QLSK/app/src/main/res/layout/dialog_record_editor.xml" value="0.3333333333333333" />
+        <entry key="..\:/ABC/important/QLSK/app/src/main/res/layout/dialog_rest.xml" value="0.3333333333333333" />
+        <entry key="..\:/ABC/important/QLSK/app/src/main/res/layout/dialog_value_editor.xml" value="0.1" />
+        <entry key="..\:/ABC/important/QLSK/app/src/main/res/layout/editableinput_view.xml" value="0.1" />
+        <entry key="..\:/ABC/important/QLSK/app/src/main/res/layout/exercise_details.xml" value="0.14666666666666667" />
+        <entry key="..\:/ABC/important/QLSK/app/src/main/res/layout/exercise_list_row.xml" value="0.1" />
+        <entry key="..\:/ABC/important/QLSK/app/src/main/res/layout/exercise_pager.xml" value="0.1" />
+        <entry key="..\:/ABC/important/QLSK/app/src/main/res/layout/fontes_pager.xml" value="0.1" />
+        <entry key="..\:/ABC/important/QLSK/app/src/main/res/layout/graph_markerview.xml" value="0.1" />
+        <entry key="..\:/ABC/important/QLSK/app/src/main/res/layout/graph_view.xml" value="0.1" />
+        <entry key="..\:/ABC/important/QLSK/app/src/main/res/layout/introfragment_newprofile.xml" value="0.1" />
+        <entry key="..\:/ABC/important/QLSK/app/src/main/res/layout/program_history_row.xml" value="0.1" />
+        <entry key="..\:/ABC/important/QLSK/app/src/main/res/layout/program_pager.xml" value="0.1" />
+        <entry key="..\:/ABC/important/QLSK/app/src/main/res/layout/program_row.xml" value="0.1" />
+        <entry key="..\:/ABC/important/QLSK/app/src/main/res/layout/row_fonte.xml" value="0.1" />
+        <entry key="..\:/ABC/important/QLSK/app/src/main/res/layout/simplemachinelist_row.xml" value="0.1" />
+        <entry key="..\:/ABC/important/QLSK/app/src/main/res/layout/singlevalueinput_view.xml" value="0.1" />
+        <entry key="..\:/ABC/important/QLSK/app/src/main/res/layout/tab_bodytracking.xml" value="0.1" />
+        <entry key="..\:/ABC/important/QLSK/app/src/main/res/layout/tab_fontes.xml" value="0.1" />
+        <entry key="..\:/ABC/important/QLSK/app/src/main/res/layout/tab_graph.xml" value="0.1" />
+        <entry key="..\:/ABC/important/QLSK/app/src/main/res/layout/tab_history.xml" value="0.1" />
+        <entry key="..\:/ABC/important/QLSK/app/src/main/res/layout/tab_machine.xml" value="0.1" />
+        <entry key="..\:/ABC/important/QLSK/app/src/main/res/layout/tab_profile.xml" value="0.1" />
+        <entry key="..\:/ABC/important/QLSK/app/src/main/res/layout/tab_program_details.xml" value="0.1" />
+        <entry key="..\:/ABC/important/QLSK/app/src/main/res/layout/tab_program_list.xml" value="0.1" />
+        <entry key="..\:/ABC/important/QLSK/app/src/main/res/layout/tab_program_runner.xml" value="0.1" />
+        <entry key="..\:/ABC/important/QLSK/app/src/main/res/layout/tab_weight.xml" value="0.1" />
+        <entry key="..\:/ABC/important/QLSK/app/src/main/res/layout/workoutvaluesinput_view.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
